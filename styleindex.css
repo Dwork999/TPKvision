@@ -1,0 +1,141 @@
+#navbar{
+    background-color: green;
+    font-size: 33px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    margin: 10px;
+    border: 10px;
+}
+
+.logoimg{
+    width: 100%;
+    width: 100px;
+    height: 100px;
+    align-items: right;
+    align-items: center;
+    display: flex;
+
+
+}
+
+.img2{
+    background-image: url(imagess/image3.jpg);
+    background-size: 50%;
+}
+
+body{
+    height: auto;
+    width: auto;
+    background-color: darkgoldenrod;
+    font-size: 35px;
+    
+}
+
+.container{
+
+    background-color: forestgreen;
+    
+}
+
+.content{
+    background-color: darkgreen;
+}
+
+footer{
+    background-color: hotpink;
+    height: auto;
+    width: auto;
+}
+
+/* images */
+
+
+
+.img{
+    width: 100%;
+    padding: 20px;
+    border: 22px;
+    margin: auto;
+
+}
+
+
+/* class color */
+
+.greentext{
+    color: greenyellow;
+}
+
+/* class alignment */
+.centretext{
+    text-align: center;
+}
+
+.righttext{
+    text-align: right;
+}
+
+.lefttext{
+    text-align: left;
+}
+
+.centreitem{
+    align-items: center;
+}
+
+
+/* class background */
+
+.backgroundgrey{
+    background-color: grey;
+}
+
+.backgroundorange{
+    background-color: coral;
+}
+
+.backgroundblue{
+    background-color: blue;
+}
+
+/* boarders */
+
+.border1light{
+    background-color: gainsboro;
+    padding: 30px;
+    border: 10px solid turquoise;
+    margin: 10px;
+}
+
+.border2medium{
+    background-color: orange;
+    padding: 30px;
+    border: 10px solid orangered;
+    margin: 10px;
+}
+
+.border3dark{
+    background-color: turquoise;
+    padding: 30px;
+    border: 10px solid blue;
+    margin: 10px;
+}
+
+/* font size */
+
+.headingfont{
+    font-size: 55px;
+}
+
+.paragraphfont{
+    font-size: 33px;
+}
+
+
+
+
+
+
