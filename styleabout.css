@@ -7,7 +7,6 @@ h1{
     font-size: 44px;
     text-align: center;
     align-items: center;
-    background-color: brown;
     width: auto;
     height: auto;
     padding: 22px;
@@ -26,7 +25,7 @@ h3{
 }
 
 p{
-    color: brown;
+    
     font-size: 22px;
     font-family: 'Times New Roman', Times, serif;
     padding-left: 22px;
@@ -64,13 +63,27 @@ img{
 }
 
 
+.padding{
+    padding: 5px;
+}
+
+.centretext{
+    text-align: center;
+}
 
 footer{
     height: 40px;
     width: auto;
     padding-bottom: 20px;
-    padding-top: 20px;
+    padding-top: 40px;
 }
+
+.footer{
+    background-color: lightgreen;
+    padding: 30px;
+    border: 10px solid limegreen;
+}
+
 
 .border1light{
     background-color: gainsboro;

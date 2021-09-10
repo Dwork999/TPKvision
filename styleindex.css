@@ -6,23 +6,21 @@
     align-items: center;
     font-family: 'Times New Roman', Times, serif;
     padding: 10px;
-    margin: 10px;
+    margin: 0px;
     border: 10px;
 }
 
 .logoimg{
-    width: 100%;
     width: 100px;
     height: 100px;
-    align-items: right;
     align-items: center;
     display: flex;
+    flex-direction: column;
 
 
 }
-
 .img2{
-    background-image: url(imagess/image3.jpg);
+    background-image: url(imagess/officebuilding1.jpg);
     background-size: 50%;
 }
 
@@ -55,8 +53,9 @@ footer{
 
 
 .img{
-    width: 100%;
+    width: 88%;
     padding: 20px;
+    border-style: dotted;
     border: 22px;
     margin: auto;
 
@@ -124,14 +123,24 @@ footer{
     margin: 10px;
 }
 
+.border4logo{
+    background-color: grey;
+    padding: 30px;
+    border: 10px solid;
+    margin: 10px;
+
+}
+
 /* font size */
 
 .headingfont{
     font-size: 55px;
+    padding: 20px;
 }
 
 .paragraphfont{
     font-size: 33px;
+    padding-left: 20px;
 }
 
 
