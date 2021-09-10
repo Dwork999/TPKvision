@@ -1,5 +1,5 @@
 #navbar{
-    background-color: green;
+    background-color: blueviolet;
     font-size: 33px;
     display: flex;
     justify-content: space-evenly;
@@ -14,8 +14,6 @@
     width: 100px;
     height: 100px;
     align-items: center;
-    display: flex;
-    flex-direction: column;
 
 
 }
@@ -100,6 +98,10 @@ footer{
     background-color: blue;
 }
 
+.backgroundaqua{
+    background-color: aqua;
+}
+
 /* boarders */
 
 .border1light{
@@ -141,6 +143,7 @@ footer{
 .paragraphfont{
     font-size: 33px;
     padding-left: 20px;
+    padding-bottom: 20px;
 }
 
 
